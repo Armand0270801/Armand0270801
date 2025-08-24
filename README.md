@@ -85,5 +85,5 @@ Contacto
 <p align="center">
 <a href="https://github.com/Armand0270801" target="_blank"><img src="https://skillicons.dev/icons?i=github&perline=14" /></a>
 <a href="https://www.linkedin.com/in/armando-rodriguez-221832264/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=14" /></a>
-<a href="mailto:armandoz27114@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&perline=14" /></a>
+<a href="mailto:armandoz27114@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&perline=14" /></a>
 </p>
